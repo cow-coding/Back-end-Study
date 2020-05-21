@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    안녕하세요. <?php echo $_GET['adress']; ?>에 사시는 <?php echo $_GET['name']; ?>님
+  </body>
+</html>
