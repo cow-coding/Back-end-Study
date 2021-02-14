@@ -1,0 +1,14 @@
+{
+	"first_user": {
+		"password": "first_pass",
+		"name": "abet"
+	},
+	"newuser": {
+		"password": "newpass",
+		"name": "charlie"
+	},
+	"kbp0237": {
+		"password": "1234",
+		"name": "park"
+	}
+}
