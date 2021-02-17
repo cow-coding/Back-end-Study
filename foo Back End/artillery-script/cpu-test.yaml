@@ -2,7 +2,7 @@ config:
   target: "http://34.64.142.139"
   phases:
     - duration: 360
-      arrivalRate: 2
+      arrivalRate: 1
       name: Warm up
 
 scenarios:
